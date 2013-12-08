@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://dany1468.github.io/pages/sitemap.xml 
